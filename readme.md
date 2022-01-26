@@ -1,3 +1,3 @@
-marck down = .md
+mark down = .md
 This is a test for my new project
 
